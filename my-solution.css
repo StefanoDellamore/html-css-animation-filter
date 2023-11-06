@@ -42,3 +42,18 @@
     transition: 3s;
 }
 
+.ex-6-img:hover {
+    filter: sepia();
+}
+
+.ex-7-img:hover {
+    filter: sepia();
+    filter: grayscale(0.5);
+}
+
+.ex-7-img {
+    transition: 3S;
+}
+
+
+
