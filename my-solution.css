@@ -74,6 +74,15 @@
     transition: 3s;
 }
 
+.ex-10-icon:hover {
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(1turn);
+    }
+}
 
 
 
