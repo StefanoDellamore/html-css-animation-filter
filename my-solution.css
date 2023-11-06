@@ -64,6 +64,15 @@
     transition: 3s;
 }
 
+.ex-9-img:hover {
+    filter: sepia(.4) grayscale(.3);
+    border-radius: 50px;
+    transform: scale(1.6);
+}
+
+.ex-9-img {
+    transition: 3s;
+}
 
 
 
