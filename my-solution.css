@@ -47,13 +47,25 @@
 }
 
 .ex-7-img:hover {
-    filter: sepia();
-    filter: grayscale(0.5);
+    filter: sepia(.2) grayscale(.5);
+    
 }
 
 .ex-7-img {
     transition: 3S;
 }
+
+.ex-8-img:hover {
+    filter: sepia(.4) grayscale(.3);
+    border-radius: 50px;
+}
+
+.ex-8-img {
+    transition: 3s;
+}
+
+
+
 
 
 
