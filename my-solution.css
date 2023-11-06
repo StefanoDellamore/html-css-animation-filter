@@ -21,3 +21,12 @@
 .ex-3-square {
     transition: 3s;
 }
+
+.ex-4-square:hover {
+    background: rgba(0, 0, 0, 0);
+}
+
+.ex-4-square {
+    transition: 3s;
+}
+
